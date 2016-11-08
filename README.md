@@ -1,2 +1,2 @@
 # varia
-all sort of useful stuff
+all sort of useful stuff (for me anyway...)
